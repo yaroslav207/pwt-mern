@@ -1,0 +1,50 @@
+.footer {
+    background-color: #353a40;
+    color: white;
+}
+
+li.footer-nav {
+    background-color: #353a40;
+    color: white;
+    border: none;
+    list-style-type: none;
+    padding-top: 10px;
+}
+
+.footer-info {
+    padding: 10px 50px;
+    box-sizing: border-box;
+}
+.footer-list-title{
+    color: orangered;
+}
+.contacts{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20%;
+}
+.contacts li{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.telegram{
+    background: dodgerblue;
+    fill: white;
+}
+.facebook{
+    background: #4167b2;
+    fill: white;
+}
+.viber{
+    background: blueviolet;
+    fill: white;
+}
+.youtube{
+    background: white;
+    fill: red;
+}
